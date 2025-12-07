@@ -12,19 +12,6 @@ Este repositório reúne as evidências do projeto desenvolvido na disciplina **
 * Organizar e apresentar meus projetos e experiências de forma acessível e organizada.
 * Estabelecer contato com o mercado de tecnologia, por meio de **eventos**, **aplicações para estágio** e outras ações práticas.
 
-## Conteúdo do Repositório
-
-Este repositório contém:
-
-* **Currículo Lattes**: Link para meu currículo atualizado com minha trajetória acadêmica e profissional.
-
-
-* **Certificados**: Certificados de eventos de tecnologia aos quais participei, demonstrando meu engajamento com o mercado.
-
-
-* **Aplicação para Vaga de Estágio**: Documentação sobre minha candidatura para vagas de estágio.
-
-
 ## Conclusões
 
 Este projeto me permitiu consolidar minha identidade profissional no ambiente digital, através da organização de conteúdos e a criação de um portfólio acessível. Além disso, pude **me envolver mais com o mercado de tecnologia** e melhorar minha preparação para processos seletivos e estágios.
